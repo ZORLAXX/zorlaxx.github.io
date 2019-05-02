@@ -9,4 +9,4 @@ Hi everyone, my name is Pranav! I started coding from the age of 7 when I began 
 
 ### Contact me
 
-[pranav.karthik10@gmail.com](mailto:pranav.karthik10@gmail.com)
+[pranav.karthik10@gmail.com](mailto: pranav.karthik10@gmail.com)
