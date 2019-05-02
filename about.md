@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi everyone, my name is Pranav! I started coding from the age of 7 when I began marvelling at the wonders you could achieve through programming. My interests leaned towards iOS Development soon enough and I was hooked. I began learning Swift and developing apps for iOS. I thought I could help some others with tutorials and tips along my journey. I recently won a WWDC 19 Scholarship too!
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pranav.karthik10@gmail.com](mailto:pranav.karthik10@gmail.com)
